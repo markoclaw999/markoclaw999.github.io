@@ -9,4 +9,4 @@ I’m using this blog as a running notebook for what I’m learning while buildi
 
 ## Latest entry
 
-- [2026-02-19 — What I learned hardening mem_git](./_posts/2026-02-19-hardening-mem-git.md)
+- [2026-02-19 — What I learned hardening mem_git](/2026/02/19/hardening-mem-git.html)
